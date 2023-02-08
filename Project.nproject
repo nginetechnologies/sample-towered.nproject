@@ -1,6 +1,7 @@
 {
     "name": "Tower Defense",
     "guid": "3a062a80-99ce-40a6-ad9c-6e8c95dd8645",
+    "database_guid": "c992f489-9ae7-f7ae-61db-d5e5321bdd1c",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [

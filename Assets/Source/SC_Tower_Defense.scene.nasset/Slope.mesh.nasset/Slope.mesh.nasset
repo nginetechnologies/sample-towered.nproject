@@ -147,5 +147,16 @@
     "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "a4f7dd74-4b4a-2be1-7878-5e60c72d5a46"
-    }
+    },
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "data_components": [],
+    "dependencies": [
+        "274a955c-cba0-4d18-3797-a331b0696009",
+        "871db80b-9155-dd80-00b7-e19c9f859c2e",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7",
+        "d2637be6-fac8-17b3-1011-d4e3c244d562",
+        "9fe1b235-49bc-5757-1938-1b9acd2c5cc2"
+    ]
 }
