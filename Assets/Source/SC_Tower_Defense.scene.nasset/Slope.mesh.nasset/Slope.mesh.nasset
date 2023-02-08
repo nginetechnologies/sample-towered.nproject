@@ -1,0 +1,151 @@
+{
+    "guid": "a4f7dd74-4b4a-2be1-7878-5e60c72d5a46",
+    "type_version": 1,
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "97db1243-2c14-cc8b-5fcc-057adc1a1a94",
+    "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
+        "radius": 4096.0
+    },
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "b63599a4-11f4-b05f-918c-e80e8d56c3d2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Slope Physics Body"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "b63599a4-11f4-b05f-918c-e80e8d56c3d2"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0,
+                    "layer": 0,
+                    "maximumAngularVelocity": 2699.9997,
+                    "overriddenMass": 0.0,
+                    "gravityScale": 1.0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "6157165b-0695-4245-006f-7e677797d11e",
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7",
+                        "comOffset": [
+                            0.0
+                        ]
+                    },
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "871db80b-9155-dd80-00b7-e19c9f859c2e"
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Slope Dirt Collider"
+                        },
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "6157165b-0695-4245-006f-7e677797d11e"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "e84d99a6-7f7e-56fc-319a-3d906db63987",
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "871db80b-9155-dd80-00b7-e19c9f859c2e",
+                                "material_instance": "274a955c-cba0-4d18-3797-a331b0696009"
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                                    "mask": [
+                                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                                    ]
+                                },
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Slope Dirt"
+                                },
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "e84d99a6-7f7e-56fc-319a-3d906db63987"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "3cbe9061-92c3-77ab-0dc5-d89750989c81",
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7",
+                        "comOffset": [
+                            0.0
+                        ]
+                    },
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "9fe1b235-49bc-5757-1938-1b9acd2c5cc2"
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Slope Foliage Collider"
+                        },
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "3cbe9061-92c3-77ab-0dc5-d89750989c81"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "89027052-34bf-fb09-cbd4-1354f0479951",
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "9fe1b235-49bc-5757-1938-1b9acd2c5cc2",
+                                "material_instance": "d2637be6-fac8-17b3-1011-d4e3c244d562"
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                                    "mask": [
+                                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                                    ]
+                                },
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Slope Foliage"
+                                },
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "89027052-34bf-fb09-cbd4-1354f0479951"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "a4f7dd74-4b4a-2be1-7878-5e60c72d5a46"
+    }
+}
