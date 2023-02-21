@@ -84,52 +84,52 @@
         280.0
     ],
     "bc_data": {
-        "format": 137,
+        "format": 133,
         "mipmap_info": [
             {
                 "level": 0,
                 "offset": 0,
-                "size": 117600
+                "size": 58800
             },
             {
                 "level": 1,
-                "offset": 117600,
-                "size": 29680
+                "offset": 58800,
+                "size": 14840
             },
             {
                 "level": 2,
-                "offset": 147280,
-                "size": 7776
+                "offset": 73640,
+                "size": 3888
             },
             {
                 "level": 3,
-                "offset": 155056,
-                "size": 1872
+                "offset": 77528,
+                "size": 936
             },
             {
                 "level": 4,
-                "offset": 156928,
-                "size": 560
+                "offset": 78464,
+                "size": 280
             },
             {
                 "level": 5,
-                "offset": 157488,
-                "size": 128
+                "offset": 78744,
+                "size": 64
             },
             {
                 "level": 6,
-                "offset": 157616,
-                "size": 32
+                "offset": 78808,
+                "size": 16
             },
             {
                 "level": 7,
-                "offset": 157648,
-                "size": 16
+                "offset": 78824,
+                "size": 8
             },
             {
                 "level": 8,
-                "offset": 157664,
-                "size": 16
+                "offset": 78832,
+                "size": 8
             }
         ]
     },

@@ -1,0 +1,35 @@
+{
+    "guid": "1fd2d07d-7f6a-efdf-6309-aa790a0ad591",
+    "source": "../SM_Wheel_Truck.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "6768f86c-f334-c648-76c5-9258f6e857f3",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Wheel Truck"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "64bfe0ae-272f-748e-de0b-d141206ace7e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wheel Truck"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6e9dea1f-72aa-2d17-896a-5af0a3aa6397"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "1fd2d07d-7f6a-efdf-6309-aa790a0ad591"
+    },
+    "dependencies": [
+        "6e9dea1f-72aa-2d17-896a-5af0a3aa6397"
+    ],
+    "thumbnailGuid": "f153aad3-2a1c-90d4-84ce-9eefa70903e9"
+}

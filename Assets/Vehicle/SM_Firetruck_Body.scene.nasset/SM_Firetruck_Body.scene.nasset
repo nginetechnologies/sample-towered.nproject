@@ -1,0 +1,35 @@
+{
+    "guid": "f6d612f6-ea35-0148-9aba-89acd305647b",
+    "source": "../SM_Firetruck_Body.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "6aa7169c-d0a7-5c4d-8fcd-834f4407e6f4",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Firetruck Body"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ab69b12e-39ec-ebd3-d341-3490484c961d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Firetruck Body"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0e5a8639-be7b-28a7-24d9-a37358bec275"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "f6d612f6-ea35-0148-9aba-89acd305647b"
+    },
+    "dependencies": [
+        "0e5a8639-be7b-28a7-24d9-a37358bec275"
+    ],
+    "thumbnailGuid": "86687a0a-81dd-ad34-c06d-741009df2dc1"
+}

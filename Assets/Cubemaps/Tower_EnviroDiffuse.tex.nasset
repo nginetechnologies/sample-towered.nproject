@@ -2,8 +2,7 @@
     "guid": "87a95ec1-77eb-cf07-d162-280af7b25525",
     "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
     "resolution": [
-        32.0,
-        32.0
+        32
     ],
     "preset": 9,
     "usage_flags": 7,
@@ -15,32 +14,32 @@
             {
                 "level": 0,
                 "offset": 0,
-                "size": 49152
+                "size": 6144
             },
             {
                 "level": 1,
-                "offset": 49152,
-                "size": 12288
+                "offset": 6144,
+                "size": 1536
             },
             {
                 "level": 2,
-                "offset": 61440,
-                "size": 3072
+                "offset": 7680,
+                "size": 384
             },
             {
                 "level": 3,
-                "offset": 64512,
-                "size": 768
+                "offset": 8064,
+                "size": 96
             },
             {
                 "level": 4,
-                "offset": 65280,
-                "size": 192
+                "offset": 8160,
+                "size": 96
             },
             {
                 "level": 5,
-                "offset": 65472,
-                "size": 48
+                "offset": 8256,
+                "size": 96
             }
         ]
     },

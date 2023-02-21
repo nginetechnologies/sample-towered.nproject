@@ -1,7 +1,7 @@
 {
     "name": "Tower Defense",
-    "guid": "3a062a80-99ce-40a6-ad9c-6e8c95dd8645",
-    "database_guid": "c992f489-9ae7-f7ae-61db-d5e5321bdd1c",
+    "guid": "bae8fd39-9aa1-4d2d-9bfe-8254a003e85b",
+    "database_guid": "f09de698-3d35-cd75-cd84-2558aec35ce1",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
@@ -13,7 +13,7 @@
     "binary_directory": "bin",
     "library_directory": "lib",
     "thumbnail_guid": "c1130604-f5c7-4308-924f-eaf6911ce173",
-    "default_scene": "c88a9286-e466-4d99-b59f-4e74412e12a3",
+    "default_scene": "e471e213-000b-49a1-923b-89d885a62880",
     "source": "Project.nproject",
     "settings": {
         "5ED68A2E-C9AF-454F-AD1E-416044E6498A": {
