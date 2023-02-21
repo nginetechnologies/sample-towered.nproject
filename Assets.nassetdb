@@ -3,6 +3,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Snow Tile.mesh.nasset/Snow Tile.mesh.nasset",
+        "thumbnail": "1e3694f6-7130-ce14-e1e3-351dd433134c",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -13,6 +14,14 @@
             "a5f586d8-0305-4fd9-985c-b82997246933",
             "6eb185ec-5db1-f3e3-05dc-8941a5c2a581"
         ]
+    },
+    "00c906f1-fd90-3edd-55b5-7a26d6b9cff2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Dirt.mtli.nasset.tex.nasset"
+    },
+    "018b8a1e-937f-b9cb-2c01-7b5e213900ed": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Spawn Round.mesh.nasset/Thumbnails/Spawn Round.mesh.nasset.tex.nasset"
     },
     "01fe762e-b340-ebab-006d-3b9747a91029": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -205,6 +214,10 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Thumbnails/Snow_Corner_Round_Thumb.tex.nasset"
     },
+    "082a316b-7271-7b53-9ee1-5c5b788cb6d5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Crystals Base.mesh.nasset/Thumbnails/Crystals Base.mesh.nasset.tex.nasset"
+    },
     "0af00da1-0794-86e9-757f-5c1a6474e733": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -228,6 +241,10 @@
             "274a955c-cba0-4d18-3797-a331b0696009",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "0cae2da3-f52a-2c00-7d02-28ee71c9c15c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Tower Square Botttom.mesh.nasset/Thumbnails/Tower Square Botttom.mesh.nasset.tex.nasset"
     },
     "0f2a285b-9861-83d7-4647-4ce253dbf603": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -265,6 +282,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "10e68429-6dad-4a81-408a-ddcfa4a38aa7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Snow Dark.mtli.nasset.tex.nasset"
+    },
     "1356f2a7-817b-b5f9-9210-a090bfcebe4d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -287,6 +308,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/River Bridge.mesh.nasset/River Bridge.mesh.nasset",
+        "thumbnail": "8126cb5d-366a-290e-4b33-677de25be0d7",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -306,6 +328,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Enemy Green Weapon.mesh.nasset/Enemy Green Weapon.mesh.nasset",
+        "thumbnail": "e24832a7-5715-1465-9837-69ab01bb6478",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -337,6 +360,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "15c72420-a5b3-e4fb-c951-2b0a558cdeb0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Cannon.mesh.nasset/Thumbnails/Cannon.mesh.nasset.tex.nasset"
+    },
     "15ee1c4e-3fc0-1e42-6b50-519449722358": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Thumbnails/Tower_Square_02_Thumb.tex.nasset"
@@ -345,6 +372,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Transition.mesh.nasset/Transition.mesh.nasset",
+        "thumbnail": "af66c929-d77d-57d0-13fb-e41764e8fd09",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -382,6 +410,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "1a96f48c-bf24-5767-012e-af814d48d8af": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Snow Corner Outer.mesh.nasset/Thumbnails/Snow Corner Outer.mesh.nasset.tex.nasset"
+    },
     "1bb4ef82-ccb0-7935-d9df-70c338c81325": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -410,6 +442,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Enemy Red Weapon.mesh.nasset/Enemy Red Weapon.mesh.nasset",
+        "thumbnail": "b830f943-ade2-93d9-74b8-12eda169fd07",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -433,6 +466,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Snow Transition.mesh.nasset/Snow Transition.mesh.nasset",
+        "thumbnail": "8547d6bd-c20b-e902-bd9a-1c1adfe9e4dc",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -452,6 +486,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Tower Square 04.mesh.nasset/Tower Square 04.mesh.nasset",
+        "thumbnail": "3e9d5840-c70a-6da8-397b-1a07d556842c",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -464,6 +499,10 @@
             "f30f89fe-8c10-fcbe-70d2-645cc7a7f49b",
             "ba3e2224-eac8-c7ef-c3b1-23b85b49ac82"
         ]
+    },
+    "1e3694f6-7130-ce14-e1e3-351dd433134c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Snow Tile.mesh.nasset/Thumbnails/Snow Tile.mesh.nasset.tex.nasset"
     },
     "1e863b4a-b244-4af8-83e2-bc7abceb406d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -505,6 +544,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Spawn Round.mesh.nasset/Spawn Round.mesh.nasset",
+        "thumbnail": "018b8a1e-937f-b9cb-2c01-7b5e213900ed",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -538,10 +578,19 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Thumbnails/Straight_Thumb.tex.nasset"
     },
+    "235cc7ec-dd6e-9659-7715-41bc9bf83482": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Snow Corner Large.mesh.nasset/Thumbnails/Snow Corner Large.mesh.nasset.tex.nasset"
+    },
+    "251fb3be-0731-50af-4374-ddccf9e699e4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Enemy Purple.mesh.nasset/Thumbnails/Enemy Purple.mesh.nasset.tex.nasset"
+    },
     "255a83b4-0069-6bec-1201-30def5312fb9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Tower Square Middle.mesh.nasset/Tower Square Middle.mesh.nasset",
+        "thumbnail": "ef21c749-8ce1-ef51-dc4e-95ad90133f4d",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -582,6 +631,7 @@
     "274a955c-cba0-4d18-3797-a331b0696009": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Dirt.mtli.nasset",
+        "thumbnail": "00c906f1-fd90-3edd-55b5-7a26d6b9cff2",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -590,6 +640,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Snow River Bridge.mesh.nasset/Snow River Bridge.mesh.nasset",
+        "thumbnail": "884abc63-4eb2-4ffe-02bb-4c94654012eb",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -604,6 +655,10 @@
             "c300dba4-fa07-282f-2411-306cea1b22a3",
             "abbf1be0-c215-8f65-4444-229112b93d21"
         ]
+    },
+    "28572882-592b-b91f-cfa8-1e4f237f5484": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/enemyPurpleWeapon.mesh.nasset/Thumbnails/enemyPurpleWeapon.mesh.nasset.tex.nasset"
     },
     "28bc4817-2017-2c01-5d09-e70a18bb11de": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -701,6 +756,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/enemyPurpleWeapon.mesh.nasset/enemyPurpleWeapon.mesh.nasset",
+        "thumbnail": "28572882-592b-b91f-cfa8-1e4f237f5484",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -713,6 +769,10 @@
             "f30f89fe-8c10-fcbe-70d2-645cc7a7f49b",
             "fa165d3f-3356-10af-8a0e-775572d52416"
         ]
+    },
+    "2d2fe9b5-1969-da02-5161-e4964925b6b0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Crystal.mtli.nasset.tex.nasset"
     },
     "2d7ff44e-9452-de12-f80e-130ccac511df": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -758,6 +818,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "302e714f-5da8-a649-ecb0-687925495a74": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Blaster.mesh.nasset/Thumbnails/Blaster.mesh.nasset.tex.nasset"
+    },
     "309ce6b3-9772-5e40-8cb9-429904b5f544": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -769,6 +833,10 @@
             "8bc25d97-d535-8bb9-507a-20a284c91cea",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "30b2bf51-b7b7-52e7-e943-e5ae5e01cc73": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Stone.mtli.nasset.tex.nasset"
     },
     "313082c9-d756-aa1f-72a1-216d35d6bd0d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -785,6 +853,7 @@
     "318a0988-a115-c837-d0ad-af0f560f2522": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Dirt Dark.mtli.nasset",
+        "thumbnail": "5350934b-12aa-7731-3909-039b91a0c4b8",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -865,6 +934,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Tower Round 02.mesh.nasset/Tower Round 02.mesh.nasset",
+        "thumbnail": "6db5066d-dcf7-b781-d7c6-05f3c7a2aa4d",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -877,6 +947,10 @@
             "f30f89fe-8c10-fcbe-70d2-645cc7a7f49b",
             "0695f01e-6c9b-57ac-48bd-92dda9687892"
         ]
+    },
+    "34099e6e-0d9f-ca8e-4df6-7cfede21e2d7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Corner Outer.mesh.nasset/Thumbnails/Corner Outer.mesh.nasset.tex.nasset"
     },
     "373164d0-dd8d-07bf-425d-2e0fc6063b9f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -947,6 +1021,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "3a8fb277-cabd-fd02-c711-700e9b853d3d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Spawn Square.mesh.nasset/Thumbnails/Spawn Square.mesh.nasset.tex.nasset"
+    },
+    "3c9acd93-ac23-b4c5-3145-9bbe07b5bea8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Snow Tree.mesh.nasset/Thumbnails/Snow Tree.mesh.nasset.tex.nasset"
+    },
     "3cb5654e-4f1d-0c85-e690-8b951d9c7ed7": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Thumbnails/Snow_Tree_Thumb.tex.nasset"
@@ -962,6 +1044,14 @@
             "f30f89fe-8c10-fcbe-70d2-645cc7a7f49b",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "3de97b39-6746-b0d6-f287-f70163f6da79": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Ballista.mesh.nasset/Thumbnails/Ballista.mesh.nasset.tex.nasset"
+    },
+    "3e9d5840-c70a-6da8-397b-1a07d556842c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Tower Square 04.mesh.nasset/Thumbnails/Tower Square 04.mesh.nasset.tex.nasset"
     },
     "3fc0c560-788f-c571-edea-26ab9b465a23": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -979,6 +1069,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Crystals Base.mesh.nasset/Crystals Base.mesh.nasset",
+        "thumbnail": "082a316b-7271-7b53-9ee1-5c5b788cb6d5",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -992,6 +1083,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Snow Spawn End.mesh.nasset/Snow Spawn End.mesh.nasset",
+        "thumbnail": "66dec913-e737-d362-58bf-2bdc7d6e71b0",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1011,6 +1103,14 @@
             "2e87f178-72c5-1a2c-57a0-5081e96753db"
         ]
     },
+    "41d41e95-e7a1-2dff-661f-00f6649c977b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/River Straight.mesh.nasset/Thumbnails/River Straight.mesh.nasset.tex.nasset"
+    },
+    "425d4c2e-7c92-2039-6dc5-be018a60947a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Crossing.mesh.nasset/Thumbnails/Crossing.mesh.nasset.tex.nasset"
+    },
     "43b31bc1-d1dc-54e0-f980-5f4ae6ab631b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1022,6 +1122,14 @@
             "8bc25d97-d535-8bb9-507a-20a284c91cea",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "44b22130-c758-7cfc-1492-844e2dcaecdd": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Snow Hill.mesh.nasset/Thumbnails/Snow Hill.mesh.nasset.tex.nasset"
+    },
+    "44be47f0-6b29-cda8-a564-7cbf894a2de3": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Tower Square 02.mesh.nasset/Thumbnails/Tower Square 02.mesh.nasset.tex.nasset"
     },
     "44f52a8b-3d66-b762-b56e-b1c8049d2d97": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1039,6 +1147,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Catapult.mesh.nasset/Catapult.mesh.nasset",
+        "thumbnail": "5a660237-95fb-65e4-4fb4-16560694cfee",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1146,6 +1255,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Wood Structure.mesh.nasset/Wood Structure.mesh.nasset",
+        "thumbnail": "5c947411-91a4-2102-7e1c-86e77bbcd8a4",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1160,6 +1270,7 @@
     "4b917a81-e74e-4022-9aa1-1d5c95875916": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Stone.mtli.nasset",
+        "thumbnail": "30b2bf51-b7b7-52e7-e943-e5ae5e01cc73",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -1176,6 +1287,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "4e9878af-5e4c-9ba7-cd81-310dc356db1c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Snow Slope.mesh.nasset/Thumbnails/Snow Slope.mesh.nasset.tex.nasset"
+    },
     "4f605a68-beec-60cc-84a7-51fb90be46d2": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Thumbnails/T_Junction_Thumb.tex.nasset"
@@ -1184,6 +1299,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Snow Tree.mesh.nasset/Snow Tree.mesh.nasset",
+        "thumbnail": "3c9acd93-ac23-b4c5-3145-9bbe07b5bea8",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1208,6 +1324,18 @@
             "c300dba4-fa07-282f-2411-306cea1b22a3",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "5068d140-8e8c-2c21-dd17-3f50cdcc3bbf": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Snow.mtli.nasset.tex.nasset"
+    },
+    "50755b57-0ea5-979e-e2cf-f111d432c655": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Slope.mesh.nasset/Thumbnails/Slope.mesh.nasset.tex.nasset"
+    },
+    "50a72c1e-67e6-2ae2-f558-f31b9301d1c1": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Enemy Yellow Weapon Bow.mesh.nasset/Thumbnails/Enemy Yellow Weapon Bow.mesh.nasset.tex.nasset"
     },
     "5138e62b-4943-9b29-aa89-442785b427bc": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1245,6 +1373,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "5350934b-12aa-7731-3909-039b91a0c4b8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Dirt Dark.mtli.nasset.tex.nasset"
+    },
     "5456316f-dbf8-c274-0781-d14bab547317": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1257,10 +1389,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "5529699f-f2b2-09ea-0aac-6397d04947ac": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Snow Tree Large.mesh.nasset/Thumbnails/Snow Tree Large.mesh.nasset.tex.nasset"
+    },
     "57304859-3e29-a90c-9524-56e47b5e90de": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Snow Corner Large.mesh.nasset/Snow Corner Large.mesh.nasset",
+        "thumbnail": "235cc7ec-dd6e-9659-7715-41bc9bf83482",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1292,6 +1429,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Enemy Purple.mesh.nasset/Enemy Purple.mesh.nasset",
+        "thumbnail": "251fb3be-0731-50af-4374-ddccf9e699e4",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1359,6 +1497,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "5a660237-95fb-65e4-4fb4-16560694cfee": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Catapult.mesh.nasset/Thumbnails/Catapult.mesh.nasset.tex.nasset"
+    },
     "5a88add7-51cb-d9f1-aa50-502a9426b815": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1375,10 +1517,15 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Thumbnails/Snow_Straight_Thumb.tex.nasset"
     },
+    "5ab4ee6d-8549-b3dd-02d8-44a07a001900": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Default.mtli.nasset.tex.nasset"
+    },
     "5af89464-daba-7de2-47f3-9dafe0833f7d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Tower Square Botttom.mesh.nasset/Tower Square Botttom.mesh.nasset",
+        "thumbnail": "0cae2da3-f52a-2c00-7d02-28ee71c9c15c",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1404,6 +1551,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "5c947411-91a4-2102-7e1c-86e77bbcd8a4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Wood Structure.mesh.nasset/Thumbnails/Wood Structure.mesh.nasset.tex.nasset"
+    },
     "5c9913b2-3c13-7003-2b95-f3e12f7cbe80": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1420,6 +1571,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Crossing.mesh.nasset/Crossing.mesh.nasset",
+        "thumbnail": "425d4c2e-7c92-2039-6dc5-be018a60947a",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1473,6 +1625,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "627a0856-0034-ad07-e802-af0e93d651bf": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Snow Path.mtli.nasset.tex.nasset"
+    },
     "632b23dc-ed8b-c0c7-fec7-742acc8eab26": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1489,12 +1645,21 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Cubemaps/Tower_Enviro.tex.nasset"
     },
+    "6455dcd0-9fd5-5f14-81be-33b937a03a5e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Dirt.mesh.nasset/Thumbnails/Dirt.mesh.nasset.tex.nasset"
+    },
     "65016c64-883d-e5ef-08fa-a02663eb095c": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Purple.mtli.nasset",
+        "thumbnail": "cddc4b4f-bb33-cffe-a5d8-912eee55ae88",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "650ea905-c8d3-88cc-c0e2-00b27ee74eb7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Tower Square 01.mesh.nasset/Thumbnails/Tower Square 01.mesh.nasset.tex.nasset"
     },
     "65233326-630b-440b-1dca-0529b08094a5": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1512,6 +1677,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Hill Rocks.mesh.nasset/Hill Rocks.mesh.nasset",
+        "thumbnail": "8d36d646-6525-d0be-3975-b7e1ee0062ca",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1583,6 +1749,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "66dec913-e737-d362-58bf-2bdc7d6e71b0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Snow Spawn End.mesh.nasset/Thumbnails/Snow Spawn End.mesh.nasset.tex.nasset"
+    },
     "67426974-5ea0-2a12-7023-7b6b66ca584e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Thumbnails/River_Bridge_Thumb.tex.nasset"
@@ -1591,6 +1761,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Trees Quad.mesh.nasset/Trees Quad.mesh.nasset",
+        "thumbnail": "c5adb6f9-a179-d377-af09-a856cfa90aea",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1605,6 +1776,7 @@
     "693b5f4d-9ff1-c7eb-1ba8-fd867dd8ac15": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Crystal.mtli.nasset",
+        "thumbnail": "2d2fe9b5-1969-da02-5161-e4964925b6b0",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -1625,6 +1797,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Tree Double.mesh.nasset/Tree Double.mesh.nasset",
+        "thumbnail": "f248237d-326e-f077-0ec5-59910b90d0ef",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1647,6 +1820,10 @@
             "d2637be6-fac8-17b3-1011-d4e3c244d562",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "6b4e3f97-5816-1104-67b7-6842282b0970": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Bump.mesh.nasset/Thumbnails/Bump.mesh.nasset.tex.nasset"
     },
     "6b9855bd-483b-3823-21d0-49bfadf5c8e0": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1703,6 +1880,7 @@
     "6d4a07cb-2f01-22fd-af88-243656c18762": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Snow Dark.mtli.nasset",
+        "thumbnail": "10e68429-6dad-4a81-408a-ddcfa4a38aa7",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -1731,6 +1909,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "6db5066d-dcf7-b781-d7c6-05f3c7a2aa4d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Tower Round 02.mesh.nasset/Thumbnails/Tower Round 02.mesh.nasset.tex.nasset"
+    },
     "6eb185ec-5db1-f3e3-05dc-8941a5c2a581": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1747,6 +1929,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Enemy Green.mesh.nasset/Enemy Green.mesh.nasset",
+        "thumbnail": "c8936ec2-8d2a-5d24-192d-cbabfe89cdd7",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1764,6 +1947,10 @@
         "assetTypeGuid": "dda212f1-b3e6-406b-b801-2079d4a65561",
         "path": "Assets/Physical Materials/Box.physmat.nasset"
     },
+    "6f301c22-4b76-5bed-1c40-a2b258f40eb9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Snow Tree Quad.mesh.nasset/Thumbnails/Snow Tree Quad.mesh.nasset.tex.nasset"
+    },
     "6f697854-5c49-600c-70d1-a5418b23c6a7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1780,6 +1967,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Enemy Yellow Weapon Bow.mesh.nasset/Enemy Yellow Weapon Bow.mesh.nasset",
+        "thumbnail": "50a72c1e-67e6-2ae2-f558-f31b9301d1c1",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1795,6 +1983,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Snow Hill.mesh.nasset/Snow Hill.mesh.nasset",
+        "thumbnail": "44b22130-c758-7cfc-1492-844e2dcaecdd",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1822,6 +2011,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Base Round.mesh.nasset/Base Round.mesh.nasset",
+        "thumbnail": "924ef634-d85a-c344-5cde-3d2b2d948e36",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1839,6 +2029,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Dirt Tile.mesh.nasset/Dirt Tile.mesh.nasset",
+        "thumbnail": "91c64c4c-f6b0-7679-5600-53ef48088145",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1864,6 +2055,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Straight Hill.mesh.nasset/Straight Hill.mesh.nasset",
+        "thumbnail": "ee69804f-6164-7707-1dfe-eedef75185be",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1925,6 +2117,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Snow Corner Round.mesh.nasset/Snow Corner Round.mesh.nasset",
+        "thumbnail": "8bca51a8-c4f7-77b7-91e6-735e92874cf7",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1939,6 +2132,10 @@
             "74895a0a-8fbc-2ab6-a983-76684e3cd095",
             "abee783a-6667-c93b-04fd-11de63ea6b13"
         ]
+    },
+    "738d68b5-92c9-ba27-4030-ae87a2b6ae18": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Tower Square 03.mesh.nasset/Thumbnails/Tower Square 03.mesh.nasset.tex.nasset"
     },
     "73c3a1a1-1e84-8cff-75b3-5719269b5cbf": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1955,6 +2152,7 @@
     "74895a0a-8fbc-2ab6-a983-76684e3cd095": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Snow Path.mtli.nasset",
+        "thumbnail": "627a0856-0034-ad07-e802-af0e93d651bf",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -1967,6 +2165,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/River Straight.mesh.nasset/River Straight.mesh.nasset",
+        "thumbnail": "41d41e95-e7a1-2dff-661f-00f6649c977b",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1992,10 +2191,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "760796fe-356a-3e57-7942-5e7fee62c2e4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Snow Tree Double.mesh.nasset/Thumbnails/Snow Tree Double.mesh.nasset.tex.nasset"
+    },
     "7662783a-f5b5-f1e1-ad27-d9a5f29a8ec2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/T Junction.mesh.nasset/T Junction.mesh.nasset",
+        "thumbnail": "7b96b2a4-a4d7-bfa0-4e86-ef04741824d6",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2025,6 +2229,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Corner Outer.mesh.nasset/Corner Outer.mesh.nasset",
+        "thumbnail": "34099e6e-0d9f-ca8e-4df6-7cfede21e2d7",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2035,6 +2240,10 @@
             "d2637be6-fac8-17b3-1011-d4e3c244d562",
             "75f3b9aa-086e-5220-3f1e-0fb666971da4"
         ]
+    },
+    "78c07657-24ad-ee12-3778-7b615be07d07": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Snow Bump.mesh.nasset/Thumbnails/Snow Bump.mesh.nasset.tex.nasset"
     },
     "78d9326e-ddc3-7c09-42b5-587ed20acf59": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2083,6 +2292,10 @@
             "74895a0a-8fbc-2ab6-a983-76684e3cd095",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "7b96b2a4-a4d7-bfa0-4e86-ef04741824d6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/T Junction.mesh.nasset/Thumbnails/T Junction.mesh.nasset.tex.nasset"
     },
     "7bc03211-a6a7-3d91-d10d-85dad8d612a2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2136,6 +2349,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Snow Tree Double.mesh.nasset/Snow Tree Double.mesh.nasset",
+        "thumbnail": "760796fe-356a-3e57-7942-5e7fee62c2e4",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2149,9 +2363,17 @@
             "1019b302-a59e-ab54-4332-9aeb15187e48"
         ]
     },
+    "7e5250c2-daec-853f-09fc-e3e876d8af89": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Glass.mtli.nasset.tex.nasset"
+    },
     "7e6a2cec-7311-7b35-46f5-9e467fa11ac8": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Thumbnails/Rocks_Large_Thumb.tex.nasset"
+    },
+    "7e9c8793-e234-78cf-3735-acb3bdb841f6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Red.mtli.nasset.tex.nasset"
     },
     "7f0e6b12-fa5d-96fa-254a-1ce3fe0b032a": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2161,10 +2383,19 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Thumbnails/Crystals_Base_Thumb.tex.nasset"
     },
+    "808e7ec5-ce9c-9cda-0b0a-3f61f764cb98": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Snow Corner.mesh.nasset/Thumbnails/Snow Corner.mesh.nasset.tex.nasset"
+    },
+    "8126cb5d-366a-290e-4b33-677de25be0d7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/River Bridge.mesh.nasset/Thumbnails/River Bridge.mesh.nasset.tex.nasset"
+    },
     "8180bd0f-c6e3-9bd0-1aff-4109e22990b0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/River Corner.mesh.nasset/River Corner.mesh.nasset",
+        "thumbnail": "cc7a5d7f-0a3e-63ea-1d30-3b9c7dcb9b27",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2190,6 +2421,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "83199b26-88db-b68a-cd67-12d860b6c5e0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Snow Straight.mesh.nasset/Thumbnails/Snow Straight.mesh.nasset.tex.nasset"
+    },
+    "836160e7-b32f-44f8-78a9-fa22a1e8f9a7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Enemy Green Weapon Catapult.mesh.nasset/Thumbnails/Enemy Green Weapon Catapult.mesh.nasset.tex.nasset"
+    },
     "83704570-4475-03fc-47e3-cdf2b0e9b01e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2206,6 +2445,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Snow Corner Outer.mesh.nasset/Snow Corner Outer.mesh.nasset",
+        "thumbnail": "1a96f48c-bf24-5767-012e-af814d48d8af",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2229,6 +2469,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "8547d6bd-c20b-e902-bd9a-1c1adfe9e4dc": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Snow Transition.mesh.nasset/Thumbnails/Snow Transition.mesh.nasset.tex.nasset"
+    },
+    "855517e8-66ce-8dd4-6a21-0d04cee5b70f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Wood.mtli.nasset.tex.nasset"
+    },
     "862e2189-fbd8-e830-c6bc-ede9ac1426d8": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2240,6 +2488,10 @@
             "a5f586d8-0305-4fd9-985c-b82997246933",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "868a4777-294c-51cc-4b2e-225eac149c86": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Snow Rock.mesh.nasset/Thumbnails/Snow Rock.mesh.nasset.tex.nasset"
     },
     "871db80b-9155-dd80-00b7-e19c9f859c2e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2293,6 +2545,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "884abc63-4eb2-4ffe-02bb-4c94654012eb": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Snow River Bridge.mesh.nasset/Thumbnails/Snow River Bridge.mesh.nasset.tex.nasset"
+    },
+    "896bc0ca-17e6-0e5a-a57b-bdbb214b2fae": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Crystal Large.mesh.nasset/Thumbnails/Crystal Large.mesh.nasset.tex.nasset"
+    },
     "898651d5-a265-4350-fefa-dc088b3571e2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2305,6 +2565,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "8a8cd7f6-f56f-a14b-fb09-bcb81d122502": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Corner Round.mesh.nasset/Thumbnails/Corner Round.mesh.nasset.tex.nasset"
+    },
     "8b42e934-01c2-8a12-c088-92af405ca69e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Thumbnails/Tower_Square_04_Thumb.tex.nasset"
@@ -2313,6 +2577,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Cannon.mesh.nasset/Cannon.mesh.nasset",
+        "thumbnail": "15c72420-a5b3-e4fb-c951-2b0a558cdeb0",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2333,6 +2598,7 @@
     "8bc25d97-d535-8bb9-507a-20a284c91cea": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Glass.mtli.nasset",
+        "thumbnail": "7e5250c2-daec-853f-09fc-e3e876d8af89",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -2348,6 +2614,10 @@
             "74895a0a-8fbc-2ab6-a983-76684e3cd095",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "8bca51a8-c4f7-77b7-91e6-735e92874cf7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Snow Corner Round.mesh.nasset/Thumbnails/Snow Corner Round.mesh.nasset.tex.nasset"
     },
     "8c0d9b47-33d0-b6cc-55bb-ccfedbc3ebd4": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2369,6 +2639,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Enemy Yellow Weapon.mesh.nasset/Enemy Yellow Weapon.mesh.nasset",
+        "thumbnail": "cfeb7496-d312-4da4-83e7-07b6a10eb32f",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2381,6 +2652,14 @@
             "274a955c-cba0-4d18-3797-a331b0696009",
             "051beb04-f0b8-3e96-cbe4-7b2b41343261"
         ]
+    },
+    "8d36d646-6525-d0be-3975-b7e1ee0062ca": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Hill Rocks.mesh.nasset/Thumbnails/Hill Rocks.mesh.nasset.tex.nasset"
+    },
+    "8d823aca-4d22-263b-5132-43f87b633f6b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Foliage.mtli.nasset.tex.nasset"
     },
     "8d88e106-28b2-92fc-12f7-b3b1f2191d3d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2442,6 +2721,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "91c64c4c-f6b0-7679-5600-53ef48088145": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Dirt Tile.mesh.nasset/Thumbnails/Dirt Tile.mesh.nasset.tex.nasset"
+    },
     "91d9ffa5-465b-7bc8-dbbc-01c188161ec0": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2465,6 +2748,10 @@
             "74895a0a-8fbc-2ab6-a983-76684e3cd095",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "924ef634-d85a-c344-5cde-3d2b2d948e36": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Base Round.mesh.nasset/Thumbnails/Base Round.mesh.nasset.tex.nasset"
     },
     "92b6d5a6-90ac-c9f2-c143-f69a0b757eac": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2506,6 +2793,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Enemy Yellow.mesh.nasset/Enemy Yellow.mesh.nasset",
+        "thumbnail": "bebc0cbf-fee3-4c34-c5fd-039367b044d4",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2525,6 +2813,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Enemy Green Weapon Catapult.mesh.nasset/Enemy Green Weapon Catapult.mesh.nasset",
+        "thumbnail": "836160e7-b32f-44f8-78a9-fa22a1e8f9a7",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2632,6 +2921,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Corner Square.mesh.nasset/Corner Square.mesh.nasset",
+        "thumbnail": "d1983af9-4f87-4288-1cf2-0693daa1716b",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2649,6 +2939,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Tower Square 02.mesh.nasset/Tower Square 02.mesh.nasset",
+        "thumbnail": "44be47f0-6b29-cda8-a564-7cbf894a2de3",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2706,6 +2997,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Snow Tree Quad.mesh.nasset/Snow Tree Quad.mesh.nasset",
+        "thumbnail": "6f301c22-4b76-5bed-1c40-a2b258f40eb9",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2751,6 +3043,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "a46966d0-51dc-537b-8509-433caafad0e5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Stone Dark.mtli.nasset.tex.nasset"
+    },
     "a4f67871-ac84-c1b0-3002-baf4bb5198b7": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Thumbnails/Snow_Slope_Thumb.tex.nasset"
@@ -2759,6 +3055,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Slope.mesh.nasset/Slope.mesh.nasset",
+        "thumbnail": "50755b57-0ea5-979e-e2cf-f111d432c655",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2781,6 +3078,7 @@
     "a5f586d8-0305-4fd9-985c-b82997246933": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Snow.mtli.nasset",
+        "thumbnail": "5068d140-8e8c-2c21-dd17-3f50cdcc3bbf",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -2797,10 +3095,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "a6e8b812-86ee-20ce-4d85-fe4a3ec07690": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Default_Skybox.tex.nasset"
-    },
     "a76a60a0-f180-19a6-68da-0232ebde7f95": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2812,6 +3106,10 @@
             "f30f89fe-8c10-fcbe-70d2-645cc7a7f49b",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "a7b86ea5-ae84-638f-ece2-7b265a2697a5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Snow T Junction.mesh.nasset/Thumbnails/Snow T Junction.mesh.nasset.tex.nasset"
     },
     "a8cb39a4-d4fe-69cf-a405-18f7557f2230": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2905,6 +3203,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Tower Round 01.mesh.nasset/Tower Round 01.mesh.nasset",
+        "thumbnail": "bb3737e0-71a0-9008-69e7-da9b42b1562d",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2922,6 +3221,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Tower Square 01.mesh.nasset/Tower Square 01.mesh.nasset",
+        "thumbnail": "650ea905-c8d3-88cc-c0e2-00b27ee74eb7",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2934,6 +3234,14 @@
             "f30f89fe-8c10-fcbe-70d2-645cc7a7f49b",
             "1f002745-223e-26bd-cb1b-df17332c1b4f"
         ]
+    },
+    "af5b0d6e-c272-833d-8218-04add0a56865": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Water.mtli.nasset.tex.nasset"
+    },
+    "af66c929-d77d-57d0-13fb-e41764e8fd09": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Transition.mesh.nasset/Thumbnails/Transition.mesh.nasset.tex.nasset"
     },
     "af8f1bfb-8897-4b3d-9b00-77116d1dd8c1": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3019,6 +3327,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "b1cc69f5-bda0-bdb2-5fb0-878544382309": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Enemy Red.mesh.nasset/Thumbnails/Enemy Red.mesh.nasset.tex.nasset"
+    },
     "b23e31b2-04b4-0b8f-ca44-798214981c55": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Thumbnails/Tower_Square_Top_Thumb.tex.nasset"
@@ -3026,6 +3338,7 @@
     "b2c36a74-b0e8-c348-f739-a63d42a0e048": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Default.mtli.nasset",
+        "thumbnail": "5ab4ee6d-8549-b3dd-02d8-44a07a001900",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -3046,6 +3359,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Snow Rock.mesh.nasset/Snow Rock.mesh.nasset",
+        "thumbnail": "868a4777-294c-51cc-4b2e-225eac149c86",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3061,6 +3375,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Snow Tree Large.mesh.nasset/Snow Tree Large.mesh.nasset",
+        "thumbnail": "5529699f-f2b2-09ea-0aac-6397d04947ac",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3080,6 +3395,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Dirt.mesh.nasset/Dirt.mesh.nasset",
+        "thumbnail": "6455dcd0-9fd5-5f14-81be-33b937a03a5e",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3093,6 +3409,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Corner Round.mesh.nasset/Corner Round.mesh.nasset",
+        "thumbnail": "8a8cd7f6-f56f-a14b-fb09-bcb81d122502",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3110,6 +3427,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Snow Straight.mesh.nasset/Snow Straight.mesh.nasset",
+        "thumbnail": "83199b26-88db-b68a-cd67-12d860b6c5e0",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3149,6 +3467,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "b7ca0b7e-af45-4613-f6d5-b8ca84df9f06": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Tower Square Top.mesh.nasset/Thumbnails/Tower Square Top.mesh.nasset.tex.nasset"
+    },
+    "b830f943-ade2-93d9-74b8-12eda169fd07": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Enemy Red Weapon.mesh.nasset/Thumbnails/Enemy Red Weapon.mesh.nasset.tex.nasset"
+    },
     "b899d7d6-82ef-0255-ee00-13749f1d721a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3165,6 +3491,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Snow Bump.mesh.nasset/Snow Bump.mesh.nasset",
+        "thumbnail": "78c07657-24ad-ee12-3778-7b615be07d07",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3220,6 +3547,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Snow Corner.mesh.nasset/Snow Corner.mesh.nasset",
+        "thumbnail": "808e7ec5-ce9c-9cda-0b0a-3f61f764cb98",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3234,6 +3562,14 @@
             "74895a0a-8fbc-2ab6-a983-76684e3cd095",
             "cd094ead-63ac-f203-92af-fa854a282c6e"
         ]
+    },
+    "bb3737e0-71a0-9008-69e7-da9b42b1562d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Tower Round 01.mesh.nasset/Thumbnails/Tower Round 01.mesh.nasset.tex.nasset"
+    },
+    "bb5af97e-3f7f-4211-91af-6103f9ed8ebb": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Snow Spawn Round.mesh.nasset/Thumbnails/Snow Spawn Round.mesh.nasset.tex.nasset"
     },
     "bba05f37-10a6-1ccb-0b48-f6d731d40aeb": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3255,6 +3591,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Crystal Large.mesh.nasset/Crystal Large.mesh.nasset",
+        "thumbnail": "896bc0ca-17e6-0e5a-a57b-bdbb214b2fae",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3295,6 +3632,7 @@
     "bcaec1a2-ab8a-5bf9-70d3-7eaa87a510c7": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Red.mtli.nasset",
+        "thumbnail": "7e9c8793-e234-78cf-3735-acb3bdb841f6",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -3311,10 +3649,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "bebc0cbf-fee3-4c34-c5fd-039367b044d4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Enemy Yellow.mesh.nasset/Thumbnails/Enemy Yellow.mesh.nasset.tex.nasset"
+    },
     "bf644c5c-cee4-71c7-7ff3-cc3e0c724ca2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Snow Spawn Round.mesh.nasset/Snow Spawn Round.mesh.nasset",
+        "thumbnail": "bb5af97e-3f7f-4211-91af-6103f9ed8ebb",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3397,6 +3740,7 @@
     "c300dba4-fa07-282f-2411-306cea1b22a3": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Wood.mtli.nasset",
+        "thumbnail": "855517e8-66ce-8dd4-6a21-0d04cee5b70f",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -3412,6 +3756,10 @@
             "274a955c-cba0-4d18-3797-a331b0696009",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "c5adb6f9-a179-d377-af09-a856cfa90aea": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Trees Quad.mesh.nasset/Thumbnails/Trees Quad.mesh.nasset.tex.nasset"
     },
     "c6276043-a61e-29a6-db78-b5c1263da298": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3457,6 +3805,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Spawn Square.mesh.nasset/Spawn Square.mesh.nasset",
+        "thumbnail": "3a8fb277-cabd-fd02-c711-700e9b853d3d",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3495,6 +3844,10 @@
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
         "path": "Assets/Tower Defense.scene.nasset"
     },
+    "c8936ec2-8d2a-5d24-192d-cbabfe89cdd7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Enemy Green.mesh.nasset/Thumbnails/Enemy Green.mesh.nasset.tex.nasset"
+    },
     "c8f13bfd-2905-a0be-5464-4f42889e596c": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3507,6 +3860,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "c992f489-9ae7-f7ae-61db-d5e5321bdd1c": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
     "ca76aa8c-2375-6f5f-bec2-ade9bd2cac5e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3518,6 +3875,10 @@
             "bcaec1a2-ab8a-5bf9-70d3-7eaa87a510c7",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "cc7a5d7f-0a3e-63ea-1d30-3b9c7dcb9b27": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/River Corner.mesh.nasset/Thumbnails/River Corner.mesh.nasset.tex.nasset"
     },
     "cd094ead-63ac-f203-92af-fa854a282c6e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3535,6 +3896,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Tower Square Top.mesh.nasset/Tower Square Top.mesh.nasset",
+        "thumbnail": "b7ca0b7e-af45-4613-f6d5-b8ca84df9f06",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3550,6 +3912,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Snow T Junction.mesh.nasset/Snow T Junction.mesh.nasset",
+        "thumbnail": "a7b86ea5-ae84-638f-ece2-7b265a2697a5",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3564,6 +3927,10 @@
             "74895a0a-8fbc-2ab6-a983-76684e3cd095",
             "8bc796a8-a007-39b5-5840-da0c996dcb3c"
         ]
+    },
+    "cddc4b4f-bb33-cffe-a5d8-912eee55ae88": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Purple.mtli.nasset.tex.nasset"
     },
     "ce159fce-10d4-4193-ce50-e473d5e2c449": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -3585,6 +3952,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Tree Large.mesh.nasset/Tree Large.mesh.nasset",
+        "thumbnail": "d0cf35be-3f95-1c03-7260-01a6495b29c2",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3630,6 +3998,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "cfeb7496-d312-4da4-83e7-07b6a10eb32f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Enemy Yellow Weapon.mesh.nasset/Thumbnails/Enemy Yellow Weapon.mesh.nasset.tex.nasset"
+    },
     "cfed9c10-fcc5-f3b7-a0cf-c97e7cb75e00": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3658,10 +4030,23 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Thumbnails/Snow_Corner_Outer_Thumb.tex.nasset"
     },
+    "d0cf35be-3f95-1c03-7260-01a6495b29c2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Tree Large.mesh.nasset/Thumbnails/Tree Large.mesh.nasset.tex.nasset"
+    },
+    "d1138b09-5465-cb76-7361-d7bf104a5d82": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Tower Round 03.mesh.nasset/Thumbnails/Tower Round 03.mesh.nasset.tex.nasset"
+    },
+    "d1983af9-4f87-4288-1cf2-0693daa1716b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Corner Square.mesh.nasset/Thumbnails/Corner Square.mesh.nasset.tex.nasset"
+    },
     "d1999019-7048-2b47-1312-f2a75c298d23": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Snow Slope.mesh.nasset/Snow Slope.mesh.nasset",
+        "thumbnail": "4e9878af-5e4c-9ba7-cd81-310dc356db1c",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3677,6 +4062,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/River Slope.mesh.nasset/River Slope.mesh.nasset",
+        "thumbnail": "e097731c-711f-d51d-823d-a29655d81296",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3695,6 +4081,7 @@
     "d2637be6-fac8-17b3-1011-d4e3c244d562": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Foliage.mtli.nasset",
+        "thumbnail": "8d823aca-4d22-263b-5132-43f87b633f6b",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -3703,6 +4090,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Enemy Purple Cannon.mesh.nasset/Enemy Purple Cannon.mesh.nasset",
+        "thumbnail": "fe21633e-1cd9-1313-5f60-cc72287d34da",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3711,6 +4099,10 @@
             "bd0412b5-20aa-b702-45cd-be1f7acb6131",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "d45dbd24-4494-d667-9056-7b953800e0c0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Ground Tile.mesh.nasset/Thumbnails/Ground Tile.mesh.nasset.tex.nasset"
     },
     "d4719ffd-547a-106c-f7bc-db7751883bf3": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3752,6 +4144,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Tower Square 03.mesh.nasset/Tower Square 03.mesh.nasset",
+        "thumbnail": "738d68b5-92c9-ba27-4030-ae87a2b6ae18",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3809,6 +4202,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Tower Round 03.mesh.nasset/Tower Round 03.mesh.nasset",
+        "thumbnail": "d1138b09-5465-cb76-7361-d7bf104a5d82",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3842,6 +4236,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Straight.mesh.nasset/Straight.mesh.nasset",
+        "thumbnail": "db562522-9820-10c8-c30f-74283e8074fb",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3854,6 +4249,10 @@
             "318a0988-a115-c837-d0ad-af0f560f2522",
             "0f2a285b-9861-83d7-4647-4ce253dbf603"
         ]
+    },
+    "db562522-9820-10c8-c30f-74283e8074fb": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Straight.mesh.nasset/Thumbnails/Straight.mesh.nasset.tex.nasset"
     },
     "dbd01b57-d2e9-0a87-04fb-f21f2e82a519": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3911,6 +4310,10 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Thumbnails/Snow_Corner_Large_Thumb.tex.nasset"
     },
+    "e097731c-711f-d51d-823d-a29655d81296": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/River Slope.mesh.nasset/Thumbnails/River Slope.mesh.nasset.tex.nasset"
+    },
     "e1189d1e-8ac6-ffd9-f19e-6a7a9d11dbf2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3922,6 +4325,10 @@
             "274a955c-cba0-4d18-3797-a331b0696009",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "e24832a7-5715-1465-9837-69ab01bb6478": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Enemy Green Weapon.mesh.nasset/Thumbnails/Enemy Green Weapon.mesh.nasset.tex.nasset"
     },
     "e2793e3a-2615-0457-05d4-05bb51f1cef4": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3938,6 +4345,7 @@
     "e299ee4b-6973-28a3-5878-29e48fd915d8": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Water.mtli.nasset",
+        "thumbnail": "af5b0d6e-c272-833d-8218-04add0a56865",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -3946,6 +4354,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Ground Tile.mesh.nasset/Ground Tile.mesh.nasset",
+        "thumbnail": "d45dbd24-4494-d667-9056-7b953800e0c0",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3961,6 +4370,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Enemy Red.mesh.nasset/Enemy Red.mesh.nasset",
+        "thumbnail": "b1cc69f5-bda0-bdb2-5fb0-878544382309",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3984,6 +4394,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Bump.mesh.nasset/Bump.mesh.nasset",
+        "thumbnail": "6b4e3f97-5816-1104-67b7-6842282b0970",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -4093,6 +4504,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "ee69804f-6164-7707-1dfe-eedef75185be": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Straight Hill.mesh.nasset/Thumbnails/Straight Hill.mesh.nasset.tex.nasset"
+    },
     "eeaa90fa-c0fe-0a76-649c-5cda45a874a4": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4104,6 +4519,10 @@
             "d2637be6-fac8-17b3-1011-d4e3c244d562",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "ef21c749-8ce1-ef51-dc4e-95ad90133f4d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Tower Square Middle.mesh.nasset/Thumbnails/Tower Square Middle.mesh.nasset.tex.nasset"
     },
     "f07410c7-f4a4-dfa0-32bb-cc6d29a52102": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -4117,9 +4536,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "f248237d-326e-f077-0ec5-59910b90d0ef": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Tree Double.mesh.nasset/Thumbnails/Tree Double.mesh.nasset.tex.nasset"
+    },
     "f30f89fe-8c10-fcbe-70d2-645cc7a7f49b": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Stone Dark.mtli.nasset",
+        "thumbnail": "a46966d0-51dc-537b-8509-433caafad0e5",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -4164,6 +4588,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Corner Large.mesh.nasset/Corner Large.mesh.nasset",
+        "thumbnail": "f7e5e58a-32bb-b999-3a89-2bfd829f0971",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -4207,6 +4632,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "f7e5e58a-32bb-b999-3a89-2bfd829f0971": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Corner Large.mesh.nasset/Thumbnails/Corner Large.mesh.nasset.tex.nasset"
+    },
     "f7e6eb50-6779-83c1-b576-0f59b528a1f0": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Thumbnails/Ballista_Thumb.tex.nasset"
@@ -4219,6 +4648,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Ballista.mesh.nasset/Ballista.mesh.nasset",
+        "thumbnail": "3de97b39-6746-b0d6-f287-f70163f6da79",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -4253,6 +4683,10 @@
             "274a955c-cba0-4d18-3797-a331b0696009",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "fe21633e-1cd9-1313-5f60-cc72287d34da": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Enemy Purple Cannon.mesh.nasset/Thumbnails/Enemy Purple Cannon.mesh.nasset.tex.nasset"
     },
     "fe33e632-24e0-d1e0-f9d9-712546d5c62b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -4298,6 +4732,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Blaster.mesh.nasset/Blaster.mesh.nasset",
+        "thumbnail": "302e714f-5da8-a649-ecb0-687925495a74",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
