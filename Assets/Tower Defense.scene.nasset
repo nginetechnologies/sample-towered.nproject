@@ -8,6 +8,9 @@
     },
     "data_components": [
         {
+            "typeGuid": "7cf4ed1d-8eaf-485d-a41a-10ec7756ff41"
+        },
+        {
             "typeGuid": "05a7011d-a220-49f2-98df-81b32be3c0fd",
             "camera_settings": {
                 "typeGuid": "9ae0e145-86b4-4e47-afda-697bbd008922",
@@ -19,22 +22,19 @@
             },
             "transform": {
                 "position": [
-                    7.466,
-                    2.3991,
-                    1.1963
+                    22.4452,
+                    -10.0867,
+                    8.5361
                 ],
                 "rotation": [
-                    -39.6535,
+                    -37.8655,
                     0.0,
-                    -136.8647
+                    42.0779
                 ]
             },
             "grid_settings": {
                 "typeGuid": "ecc5ac5d-5450-4808-97b1-e25d91462d96"
             }
-        },
-        {
-            "typeGuid": "7cf4ed1d-8eaf-485d-a41a-10ec7756ff41"
         }
     ],
     "children": [
@@ -254,7 +254,7 @@
                 "rotation": [
                     0.0,
                     0.0,
-                    89.9994
+                    89.9998
                 ]
             },
             "data_components": [
@@ -331,7 +331,7 @@
                 "rotation": [
                     0.0,
                     0.0,
-                    89.9994
+                    89.9998
                 ]
             },
             "data_components": [
@@ -384,7 +384,7 @@
                 "rotation": [
                     0.0,
                     0.0,
-                    89.9994
+                    89.9998
                 ]
             },
             "data_components": [
@@ -653,7 +653,7 @@
                 "rotation": [
                     0.0,
                     0.0,
-                    -89.9994
+                    -89.9998
                 ]
             },
             "data_components": [
@@ -682,7 +682,7 @@
                 "rotation": [
                     0.0,
                     0.0,
-                    89.9994
+                    89.9998
                 ]
             },
             "data_components": [
@@ -735,7 +735,7 @@
                 "rotation": [
                     0.0,
                     0.0,
-                    89.9994
+                    89.9998
                 ]
             },
             "data_components": [
@@ -764,7 +764,7 @@
                 "rotation": [
                     0.0,
                     0.0,
-                    89.9994
+                    89.9998
                 ]
             },
             "data_components": [
@@ -889,7 +889,7 @@
                 "rotation": [
                     0.0,
                     0.0,
-                    89.9994
+                    89.9998
                 ]
             },
             "data_components": [
@@ -1014,7 +1014,7 @@
                 "rotation": [
                     0.0,
                     0.0,
-                    -89.9994
+                    -89.9998
                 ]
             },
             "data_components": [
@@ -1043,7 +1043,7 @@
                 "rotation": [
                     0.0,
                     0.0,
-                    89.9994
+                    89.9998
                 ]
             },
             "data_components": [
@@ -1389,7 +1389,7 @@
                 "rotation": [
                     0.0,
                     0.0,
-                    -89.9994
+                    -89.9998
                 ]
             },
             "data_components": [
@@ -1418,7 +1418,7 @@
                 "rotation": [
                     0.0,
                     0.0,
-                    179.9994
+                    179.9998
                 ]
             },
             "data_components": [
@@ -1465,7 +1465,7 @@
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     16.0,
-                    1.9996,
+                    1.9998,
                     0.4
                 ]
             },
@@ -1489,7 +1489,7 @@
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     16.0,
-                    1.9996,
+                    1.9998,
                     0.8
                 ]
             },
@@ -1513,7 +1513,7 @@
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     16.0,
-                    1.9996,
+                    1.9998,
                     1.46
                 ]
             },
@@ -1537,8 +1537,8 @@
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     16.0,
-                    1.9996,
-                    2.1198
+                    1.9998,
+                    2.1199
                 ]
             },
             "data_components": [
@@ -1560,7 +1560,7 @@
             "instanceGuid": "2022c819-1e37-e27d-5d2f-549a9c5874c4",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    13.9996,
+                    13.9998,
                     12.0,
                     0.4
                 ]
@@ -1837,7 +1837,7 @@
                 "rotation": [
                     0.0,
                     0.0,
-                    179.9994
+                    179.9998
                 ]
             },
             "data_components": [
@@ -2010,7 +2010,7 @@
                 "rotation": [
                     0.0,
                     0.0,
-                    89.9994
+                    89.9998
                 ]
             },
             "data_components": [
@@ -2039,7 +2039,7 @@
                 "rotation": [
                     0.0,
                     0.0,
-                    -89.9994
+                    -89.9998
                 ]
             },
             "data_components": [
@@ -2452,7 +2452,7 @@
                 "rotation": [
                     0.0,
                     0.0,
-                    89.9994
+                    89.9998
                 ]
             },
             "data_components": [
@@ -2529,7 +2529,7 @@
                 "rotation": [
                     0.0,
                     0.0,
-                    89.9994
+                    89.9998
                 ]
             },
             "data_components": [
@@ -2678,7 +2678,7 @@
                 "rotation": [
                     0.0,
                     0.0,
-                    89.9994
+                    89.9998
                 ]
             },
             "data_components": [
@@ -2999,7 +2999,7 @@
                 "position": [
                     5.0,
                     -6.0,
-                    1.4996
+                    1.4998
                 ]
             },
             "data_components": [
@@ -3455,10 +3455,10 @@
                 "position": [
                     10.0,
                     -6.0,
-                    1.4996
+                    1.4998
                 ],
                 "rotation": [
-                    0.0,
+                    -0.0,
                     0.0,
                     -144.9998
                 ],
@@ -3559,7 +3559,7 @@
                 "position": [
                     20.0,
                     -2.0,
-                    0.7997
+                    0.7998
                 ]
             },
             "data_components": [
@@ -3708,7 +3708,7 @@
                 "rotation": [
                     0.0,
                     0.0,
-                    -89.9994
+                    -89.9998
                 ]
             },
             "data_components": [
@@ -4052,7 +4052,7 @@
                 "rotation": [
                     0.0,
                     0.0,
-                    -89.9994
+                    -89.9998
                 ]
             },
             "data_components": [
@@ -4369,7 +4369,7 @@
                 "rotation": [
                     0.0,
                     0.0,
-                    89.9994
+                    89.9998
                 ]
             },
             "data_components": [
@@ -4492,9 +4492,9 @@
                     0.0
                 ],
                 "rotation": [
+                    -0.0,
                     0.0,
-                    0.0,
-                    -179.9994
+                    -179.9998
                 ]
             },
             "data_components": [
@@ -4523,7 +4523,7 @@
                 "rotation": [
                     0.0,
                     0.0,
-                    -89.9994
+                    -89.9998
                 ]
             },
             "data_components": [
@@ -6346,7 +6346,7 @@
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     24.0,
-                    1.9996,
+                    1.9998,
                     0.4
                 ]
             },
@@ -8266,7 +8266,7 @@
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     -4.0,
-                    1.9996,
+                    1.9998,
                     0.4
                 ]
             },
@@ -8848,7 +8848,7 @@
                 "rotation": [
                     0.0,
                     0.0,
-                    169.9994
+                    169.9998
                 ]
             },
             "data_components": [
@@ -8901,7 +8901,7 @@
                 "rotation": [
                     0.0,
                     0.0,
-                    -89.9994
+                    -89.9998
                 ]
             },
             "data_components": [
@@ -8972,7 +8972,7 @@
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     19.548,
-                    1.9996,
+                    1.9998,
                     0.4
                 ]
             },
@@ -9500,7 +9500,7 @@
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     24.0,
-                    1.9996,
+                    1.9998,
                     0.4
                 ]
             },
@@ -10052,7 +10052,7 @@
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     -4.0,
-                    1.9996,
+                    1.9998,
                     0.4
                 ]
             },
@@ -10675,27 +10675,21 @@
             "instanceGuid": "d3f8c605-fcfb-7875-d708-d957a810e116",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    8.105,
-                    1.7537,
-                    0.4325
-                ],
-                "scale": [
-                    0.2574
+                    0.0,
+                    0.4997,
+                    1.6519
                 ]
             },
-            "88a0cdbb-2826-46e3-b372-2a5154eacb61": {
-                "asset": "6f7c9d77-f5d7-487b-8a1c-5b369ca3d246"
-            },
             "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spawn Point"
-                },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "997e9c4d-d494-4a6e-bb6c-620ced5fabde"
                     ]
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spawn Point"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
@@ -10725,9 +10719,9 @@
                 ]
             },
             "8f32c5fc-bac8-4d50-97df-bdf0be0ad32e": {
-                "color": "#fdfdfd00",
+                "color": "#f8edd4",
                 "cascades": 4,
-                "intensity": 10.0,
+                "intensity": 13.0,
                 "cascade_distances": [
                     6.0,
                     12.0,
@@ -10737,14 +10731,14 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Directional Light"
-                },
-                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                     ]
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Directional Light"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
@@ -10757,7 +10751,7 @@
             "instanceGuid": "18346473-407b-41da-9738-296707036b30",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "rotation": [
-                    -89.9995,
+                    -89.999,
                     0.0,
                     0.0
                 ]
@@ -10804,14 +10798,14 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Environment Light"
-                },
-                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                     ]
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Environment Light"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
@@ -10844,14 +10838,14 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Skysphere"
-                },
-                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                     ]
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skysphere"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",

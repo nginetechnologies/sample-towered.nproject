@@ -218,33 +218,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Tower Square Botttom.mesh.nasset/Thumbnails/Tower Square Botttom.mesh.nasset.tex.nasset"
     },
-    "0e5a8639-be7b-28a7-24d9-a37358bec275": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Vehicle/SM_Firetruck_Body.scene.nasset/Firetruck Body.mesh.nasset/Firetruck Body.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ],
-        "dependencies": [
-            "1c93ad7b-1ec6-c81b-6c41-d7e60efb97a5",
-            "5180b02f-e47d-6ab7-8bc5-cbceebf01182",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7",
-            "a388803f-bb5e-d164-f065-5da7ba10501d",
-            "e958f1ce-1caf-90e0-3725-ce4e66147c47",
-            "73f0ed5d-aa0e-34c3-0cd3-c68fc3f93cf5",
-            "3431ec96-9835-7b9a-9cee-87b6be8cf260",
-            "5ea48021-eeee-92fe-01f5-21609fda3414",
-            "82de14ea-e7fd-8d8a-f4a2-9ac38cdd8822",
-            "aad04738-d47c-ea2e-c25b-d4fb0c129efa",
-            "5830ce83-ee21-6a4b-a9fd-c2ce6bad6177",
-            "279905d6-22cc-d6bb-ee5b-da18cedb7555",
-            "41ad35c0-6f44-492b-6f7b-7ca802c401bc",
-            "488d284b-dd84-f3f9-2cd0-38a7a20312e7",
-            "2fe2201a-0949-52ee-8e1f-05cbb33a0fc1",
-            "90228bd9-984b-ec7d-5731-520cba01bee7",
-            "9bd08bfe-7a62-4ee5-af9e-78de9f697abf"
-        ]
-    },
     "0f2a285b-9861-83d7-4647-4ce253dbf603": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -443,14 +416,6 @@
             "f702b9e2-3606-56d5-3cac-db2656ed02a0"
         ]
     },
-    "1c93ad7b-1ec6-c81b-6c41-d7e60efb97a5": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Vehicle/Material Instances/Emission Red.mtli.nasset",
-        "thumbnail": "cb41fb55-fc3e-19fc-18cc-ae94de950ab3",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
     "1d7ba3bb-6eaa-d225-499a-e692968fbdc4": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -470,10 +435,6 @@
             "74895a0a-8fbc-2ab6-a983-76684e3cd095",
             "9cbf6f6a-d532-2bc5-d60f-58e038278c72"
         ]
-    },
-    "1dafeebb-758c-b786-732d-c7a1d9274838": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Vehicle/Material Instances/Thumbnails/Paint Green.mtli.nasset.tex.nasset"
     },
     "1def3adb-533e-ef6d-cf55-5d7cf78d1534": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -555,15 +516,6 @@
             "5330c5f7-3e58-71e0-9a58-f7402ac03e8f"
         ]
     },
-    "1fd2d07d-7f6a-efdf-6309-aa790a0ad591": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Vehicle/SM_Wheel_Truck.scene.nasset/SM_Wheel_Truck.scene.nasset",
-        "thumbnail": "f153aad3-2a1c-90d4-84ce-9eefa70903e9",
-        "dependencies": [
-            "6e9dea1f-72aa-2d17-896a-5af0a3aa6397"
-        ]
-    },
     "20e647c0-3db7-64a9-53c6-4673f4b8e987": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -579,15 +531,6 @@
     "235cc7ec-dd6e-9659-7715-41bc9bf83482": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Snow Corner Large.mesh.nasset/Thumbnails/Snow Corner Large.mesh.nasset.tex.nasset"
-    },
-    "24d58488-abe9-367c-a481-123c3f1d38c9": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Vehicle/Material Instances/Thumbnails/Emission Yellow.mtli.nasset.tex.nasset"
-    },
-    "250d31ad-170a-47c9-bd17-63c20f51522c": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Vehicle/Player Firetruck.scene.nasset/Firetruck Body.scene.nasset"
     },
     "251fb3be-0731-50af-4374-ddccf9e699e4": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -639,14 +582,6 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Dirt.mtli.nasset",
         "thumbnail": "00c906f1-fd90-3edd-55b5-7a26d6b9cff2",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
-    "279905d6-22cc-d6bb-ee5b-da18cedb7555": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Vehicle/Material Instances/Window.mtli.nasset",
-        "thumbnail": "ea10da10-a2e8-b2a5-eac4-58208c4badb2",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -759,14 +694,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "2c308b30-46f2-1a10-818e-11fc74ee963a": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Vehicle/Material Instances/Aluminum.mtli.nasset",
-        "thumbnail": "40ee300b-9a2e-744d-fa2d-dc7592cea9d8",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
     "2d263102-6879-bd4b-70da-0b08d01deaf5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -810,18 +737,6 @@
         ],
         "dependencies": [
             "4b917a81-e74e-4022-9aa1-1d5c95875916",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "2fe2201a-0949-52ee-8e1f-05cbb33a0fc1": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Vehicle/SM_Firetruck_Body.scene.nasset/Firetruck Body.mesh.nasset/Firetruck Body Emission Blue.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "488d284b-dd84-f3f9-2cd0-38a7a20312e7",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -971,18 +886,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Corner Outer.mesh.nasset/Thumbnails/Corner Outer.mesh.nasset.tex.nasset"
     },
-    "3431ec96-9835-7b9a-9cee-87b6be8cf260": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Vehicle/SM_Firetruck_Body.scene.nasset/Firetruck Body.mesh.nasset/Firetruck Body Plastic.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "73f0ed5d-aa0e-34c3-0cd3-c68fc3f93cf5",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
     "373164d0-dd8d-07bf-425d-2e0fc6063b9f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1083,10 +986,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "40ee300b-9a2e-744d-fa2d-dc7592cea9d8": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Vehicle/Material Instances/Thumbnails/Aluminum.mtli.nasset.tex.nasset"
-    },
     "410b7707-887c-7811-c5d2-f21b4721a4b0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1123,18 +1022,6 @@
             "7b00386e-ca93-5332-cda8-24996116e990",
             "f30f89fe-8c10-fcbe-70d2-645cc7a7f49b",
             "2e87f178-72c5-1a2c-57a0-5081e96753db"
-        ]
-    },
-    "41ad35c0-6f44-492b-6f7b-7ca802c401bc": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Vehicle/SM_Firetruck_Body.scene.nasset/Firetruck Body.mesh.nasset/Firetruck Body Window.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "279905d6-22cc-d6bb-ee5b-da18cedb7555",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "41d41e95-e7a1-2dff-661f-00f6649c977b": {
@@ -1245,14 +1132,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "488d284b-dd84-f3f9-2cd0-38a7a20312e7": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Vehicle/Material Instances/Emission Blue.mtli.nasset",
-        "thumbnail": "4ca691e9-b020-fd2a-1d17-fcd4338c1ebc",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
     "488ea3a9-0e73-05f5-3709-b357452e9758": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1300,10 +1179,6 @@
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
-    },
-    "4ca691e9-b020-fd2a-1d17-fcd4338c1ebc": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Vehicle/Material Instances/Thumbnails/Emission Blue.mtli.nasset.tex.nasset"
     },
     "4ce877a5-5fc9-bbb2-69c9-2c131a31629b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1372,18 +1247,6 @@
         ],
         "dependencies": [
             "d2637be6-fac8-17b3-1011-d4e3c244d562",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "5180b02f-e47d-6ab7-8bc5-cbceebf01182": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Vehicle/SM_Firetruck_Body.scene.nasset/Firetruck Body.mesh.nasset/Firetruck Body Emission Red.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "1c93ad7b-1ec6-c81b-6c41-d7e60efb97a5",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -1507,18 +1370,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "5830ce83-ee21-6a4b-a9fd-c2ce6bad6177": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Vehicle/SM_Firetruck_Body.scene.nasset/Firetruck Body.mesh.nasset/Firetruck Body Emission Yellow.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "aad04738-d47c-ea2e-c25b-d4fb0c129efa",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
     "58837d63-cf80-fbb6-c875-aee1d0934b12": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1609,18 +1460,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "5e94d725-0147-261d-50d0-82483b6fddf1": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Vehicle/Material Instances/Thumbnails/Plastic.mtli.nasset.tex.nasset"
-    },
-    "5ea48021-eeee-92fe-01f5-21609fda3414": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Vehicle/Material Instances/Rubber.mtli.nasset",
-        "thumbnail": "eec1eae6-b283-4dbe-f3d9-e900e4d008bb",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
     "6069031b-a6f2-0a30-ed3f-2b16bdb8d070": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1637,18 +1476,6 @@
             "eeaa90fa-c0fe-0a76-649c-5cda45a874a4",
             "318a0988-a115-c837-d0ad-af0f560f2522",
             "31b6c55d-8f83-e3d6-cfea-913a16c7ff40"
-        ]
-    },
-    "607c758c-771b-28f2-e592-6113f180cb38": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Vehicle/SM_Wheel_Truck.scene.nasset/Wheel Truck.mesh.nasset/Wheel Truck Rubber.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "5ea48021-eeee-92fe-01f5-21609fda3414",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "620a072a-90b4-0a31-a410-9874f1871d5a": {
@@ -1799,10 +1626,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "6689a340-dc0f-026f-37cb-15ca44b4f2fe": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Vehicle/Material Instances/Thumbnails/Default.mtli.nasset.tex.nasset"
-    },
     "668f7fa3-6cb0-506f-db62-1d2daccb479c": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1854,10 +1677,6 @@
             "693b5f4d-9ff1-c7eb-1ba8-fd867dd8ac15",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "69e087ed-b016-01b8-9b92-9fb906a0afd4": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Vehicle/Material Instances/Thumbnails/Paint White.mtli.nasset.tex.nasset"
     },
     "69ecc009-97c2-7b1a-02a4-8a7e1f265ce3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1975,23 +1794,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Tower Round 02.mesh.nasset/Thumbnails/Tower Round 02.mesh.nasset.tex.nasset"
     },
-    "6e9dea1f-72aa-2d17-896a-5af0a3aa6397": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Vehicle/SM_Wheel_Truck.scene.nasset/Wheel Truck.mesh.nasset/Wheel Truck.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ],
-        "dependencies": [
-            "5ea48021-eeee-92fe-01f5-21609fda3414",
-            "607c758c-771b-28f2-e592-6113f180cb38",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7",
-            "90228bd9-984b-ec7d-5731-520cba01bee7",
-            "aebdfbf2-d56b-b88b-903d-8640d7900243",
-            "73f0ed5d-aa0e-34c3-0cd3-c68fc3f93cf5",
-            "7f8a16f1-cdf8-5c0f-0086-48e6dfe4321b"
-        ]
-    },
     "6eb185ec-5db1-f3e3-05dc-8941a5c2a581": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2021,10 +1823,6 @@
             "d2637be6-fac8-17b3-1011-d4e3c244d562",
             "4b41443d-300c-9f06-72b5-d51629b7ee86"
         ]
-    },
-    "6f07f2ff-f6c1-49f2-ba3c-7b335b4fad76": {
-        "assetTypeGuid": "dda212f1-b3e6-406b-b801-2079d4a65561",
-        "path": "Assets/Physical Materials/Box.physmat.nasset"
     },
     "6f301c22-4b76-5bed-1c40-a2b258f40eb9": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2057,11 +1855,6 @@
             "274a955c-cba0-4d18-3797-a331b0696009",
             "9819a2cc-4f86-032a-2f70-745fbd2e9442"
         ]
-    },
-    "6f7c9d77-f5d7-487b-8a1c-5b369ca3d246": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Vehicle/Player Firetruck.scene.nasset/Firetruck Main.scene.nasset"
     },
     "6f83ea21-8265-0711-8147-3220f81fa00f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2225,14 +2018,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "73f0ed5d-aa0e-34c3-0cd3-c68fc3f93cf5": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Vehicle/Material Instances/Plastic.mtli.nasset",
-        "thumbnail": "5e94d725-0147-261d-50d0-82483b6fddf1",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
     "74895a0a-8fbc-2ab6-a983-76684e3cd095": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Snow Path.mtli.nasset",
@@ -2349,11 +2134,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "7af144ed-7b3f-4936-8172-d643aaa35ca1": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Vehicle/Player Firetruck.scene.nasset/Firetruck Wheel.scene.nasset"
-    },
     "7afadbf1-fd9f-775b-0e7d-5d4286e7b7db": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2456,18 +2236,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Red.mtli.nasset.tex.nasset"
     },
-    "7f8a16f1-cdf8-5c0f-0086-48e6dfe4321b": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Vehicle/SM_Wheel_Truck.scene.nasset/Wheel Truck.mesh.nasset/Wheel Truck Plastic.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "73f0ed5d-aa0e-34c3-0cd3-c68fc3f93cf5",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
     "808e7ec5-ce9c-9cda-0b0a-3f61f764cb98": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Snow Corner.mesh.nasset/Thumbnails/Snow Corner.mesh.nasset.tex.nasset"
@@ -2503,18 +2271,6 @@
         ],
         "dependencies": [
             "c300dba4-fa07-282f-2411-306cea1b22a3",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "82de14ea-e7fd-8d8a-f4a2-9ac38cdd8822": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Vehicle/SM_Firetruck_Body.scene.nasset/Firetruck Body.mesh.nasset/Firetruck Body Rubber.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "5ea48021-eeee-92fe-01f5-21609fda3414",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -2574,14 +2330,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Wood.mtli.nasset.tex.nasset"
     },
-    "8569fa6d-633a-68af-60b6-938c4b3c4cd8": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Vehicle/Material Instances/Paint Yellow.mtli.nasset",
-        "thumbnail": "aece0dfc-2896-07a6-17b4-e686702e4a0e",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
     "862e2189-fbd8-e830-c6bc-ede9ac1426d8": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2593,10 +2341,6 @@
             "a5f586d8-0305-4fd9-985c-b82997246933",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "86687a0a-81dd-ad34-c06d-741009df2dc1": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Vehicle/SM_Firetruck_Body.scene.nasset/Thumbnails/SM_Firetruck_Body.scene.nasset.tex.nasset"
     },
     "868a4777-294c-51cc-4b2e-225eac149c86": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2782,14 +2526,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "90228bd9-984b-ec7d-5731-520cba01bee7": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Vehicle/Material Instances/Default.mtli.nasset",
-        "thumbnail": "6689a340-dc0f-026f-37cb-15ca44b4f2fe",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
     "90c3b38e-ca0c-a118-757e-f5583acec242": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2966,18 +2702,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "9bd08bfe-7a62-4ee5-af9e-78de9f697abf": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Vehicle/SM_Firetruck_Body.scene.nasset/Firetruck Body.mesh.nasset/Firetruck Body Default.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "90228bd9-984b-ec7d-5731-520cba01bee7",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
     "9c6c1e66-62fd-7bcd-97bb-fae78822306e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3104,14 +2828,6 @@
             "5456316f-dbf8-c274-0781-d14bab547317"
         ]
     },
-    "a388803f-bb5e-d164-f065-5da7ba10501d": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Vehicle/Material Instances/Paint Red.mtli.nasset",
-        "thumbnail": "fd3a29de-f8af-d8bb-1b8d-b3b312194521",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
     "a3b627a4-8563-0cfa-84ed-b2e32ec66bd5": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3202,14 +2918,6 @@
         "dependencies": [
             "74895a0a-8fbc-2ab6-a983-76684e3cd095",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "aad04738-d47c-ea2e-c25b-d4fb0c129efa": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Vehicle/Material Instances/Emission Yellow.mtli.nasset",
-        "thumbnail": "24d58488-abe9-367c-a481-123c3f1d38c9",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "ab6b5bf7-f662-91e2-ed13-fcf4d5e72cbc": {
@@ -3319,22 +3027,6 @@
             "f30f89fe-8c10-fcbe-70d2-645cc7a7f49b",
             "1f002745-223e-26bd-cb1b-df17332c1b4f"
         ]
-    },
-    "aebdfbf2-d56b-b88b-903d-8640d7900243": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Vehicle/SM_Wheel_Truck.scene.nasset/Wheel Truck.mesh.nasset/Wheel Truck Default.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "90228bd9-984b-ec7d-5731-520cba01bee7",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "aece0dfc-2896-07a6-17b4-e686702e4a0e": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Vehicle/Material Instances/Thumbnails/Paint Yellow.mtli.nasset.tex.nasset"
     },
     "af5b0d6e-c272-833d-8218-04add0a56865": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -3934,14 +3626,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "c907d4b1-6e15-5450-f3d4-297ed8d3d78f": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Vehicle/Material Instances/Paint Blue.mtli.nasset",
-        "thumbnail": "e113261e-d046-f9f1-83c6-392f0b97b9d0",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
     "ca76aa8c-2375-6f5f-bec2-ade9bd2cac5e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3953,10 +3637,6 @@
             "bcaec1a2-ab8a-5bf9-70d3-7eaa87a510c7",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "cb41fb55-fc3e-19fc-18cc-ae94de950ab3": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Vehicle/Material Instances/Thumbnails/Emission Red.mtli.nasset.tex.nasset"
     },
     "cc7a5d7f-0a3e-63ea-1d30-3b9c7dcb9b27": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -4364,10 +4044,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/River Slope.mesh.nasset/Thumbnails/River Slope.mesh.nasset.tex.nasset"
     },
-    "e113261e-d046-f9f1-83c6-392f0b97b9d0": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Vehicle/Material Instances/Thumbnails/Paint Blue.mtli.nasset.tex.nasset"
-    },
     "e1189d1e-8ac6-ffd9-f19e-6a7a9d11dbf2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4505,30 +4181,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "e85d0178-e506-1cde-cf51-f033c9f8da66": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Vehicle/Material Instances/Paint Green.mtli.nasset",
-        "thumbnail": "1dafeebb-758c-b786-732d-c7a1d9274838",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
-    "e958f1ce-1caf-90e0-3725-ce4e66147c47": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Vehicle/SM_Firetruck_Body.scene.nasset/Firetruck Body.mesh.nasset/Firetruck Body Paint Red.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "a388803f-bb5e-d164-f065-5da7ba10501d",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "ea10da10-a2e8-b2a5-eac4-58208c4badb2": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Vehicle/Material Instances/Thumbnails/Window.mtli.nasset.tex.nasset"
-    },
     "ea7c5ef6-d957-531a-b64c-9a87f6e75cc2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4605,10 +4257,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "eec1eae6-b283-4dbe-f3d9-e900e4d008bb": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Vehicle/Material Instances/Thumbnails/Rubber.mtli.nasset.tex.nasset"
-    },
     "ef21c749-8ce1-ef51-dc4e-95ad90133f4d": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Tower Square Middle.mesh.nasset/Thumbnails/Tower Square Middle.mesh.nasset.tex.nasset"
@@ -4628,10 +4276,6 @@
     "f09de698-3d35-cd75-cd84-2558aec35ce1": {
         "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
         "path": "Assets.nassetdb"
-    },
-    "f153aad3-2a1c-90d4-84ce-9eefa70903e9": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Vehicle/SM_Wheel_Truck.scene.nasset/Thumbnails/SM_Wheel_Truck.scene.nasset.tex.nasset"
     },
     "f248237d-326e-f077-0ec5-59910b90d0ef": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -4713,15 +4357,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "f6d612f6-ea35-0148-9aba-89acd305647b": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Vehicle/SM_Firetruck_Body.scene.nasset/SM_Firetruck_Body.scene.nasset",
-        "thumbnail": "86687a0a-81dd-ad34-c06d-741009df2dc1",
-        "dependencies": [
-            "0e5a8639-be7b-28a7-24d9-a37358bec275"
-        ]
-    },
     "f702b9e2-3606-56d5-3cac-db2656ed02a0": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4737,14 +4372,6 @@
     "f7e5e58a-32bb-b999-3a89-2bfd829f0971": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Tower_Defense.scene.nasset/Corner Large.mesh.nasset/Thumbnails/Corner Large.mesh.nasset.tex.nasset"
-    },
-    "f7f9a397-a18c-d7d2-716e-bd7e703609cd": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Vehicle/Material Instances/Paint White.mtli.nasset",
-        "thumbnail": "69e087ed-b016-01b8-9b92-9fb906a0afd4",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
     },
     "f9cc0a62-ffde-b9af-3a50-21f42c2489d0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4774,10 +4401,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "fa6d7ef7-f515-4fd6-9568-17162e75082e": {
-        "assetTypeGuid": "dda212f1-b3e6-406b-b801-2079d4a65561",
-        "path": "Assets/Vehicle/Wheel.physmat.nasset"
-    },
     "fc875d19-04d0-6095-4e4a-1c8cd29a8870": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4789,10 +4412,6 @@
             "274a955c-cba0-4d18-3797-a331b0696009",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "fd3a29de-f8af-d8bb-1b8d-b3b312194521": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Vehicle/Material Instances/Thumbnails/Paint Red.mtli.nasset.tex.nasset"
     },
     "fe21633e-1cd9-1313-5f60-cc72287d34da": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
